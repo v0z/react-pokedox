@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e4b5c46641ec029fe5d6147b2a8c9c5",
+    "revision": "ef210b83b2e4814e2120aad14df53771",
     "url": "/react-pokedox/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-pokedox/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "d90b216b079b8298b95c",
+    "revision": "f191e5171a3b5dfc551b",
     "url": "/react-pokedox/static/css/main.f828fb5c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-pokedox/static/js/2.ed6ae04f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d90b216b079b8298b95c",
-    "url": "/react-pokedox/static/js/main.8153a931.chunk.js"
+    "revision": "f191e5171a3b5dfc551b",
+    "url": "/react-pokedox/static/js/main.a36dfd63.chunk.js"
   },
   {
     "revision": "a718cf561d69d4dadfdb",
